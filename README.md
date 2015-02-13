@@ -4,9 +4,9 @@
 
 Metamark is 
 
-	1. A method of adding some rudimentary indexing of text files, primarily intended for github wiki pages, and
+1. A method of adding some rudimentary indexing of text files, primarily intended for github wiki pages, and
 
-	2. A Ruby script that scans a folder for markdown files, looking for special markup, and creating stuff from that.
+2. A Ruby script that scans a folder for markdown files, looking for special markup, and creating stuff from that.
 
 ## How to use it
 
